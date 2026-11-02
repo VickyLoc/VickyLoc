@@ -1,2 +1,4 @@
 Name: Vicky Loc
-Current Education: Northeastern University
+Major: Computer Science
+Current Education: Northeastern University 
+Graduation Year: 2030 
